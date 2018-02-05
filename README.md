@@ -1,3 +1,3 @@
-"Here Ye:"
-"Hello World! I am Here!" 
-"Goodbye Now World"
+"Here Ye!"
+"Hello World for I am Here!" 
+"Goodbye Ye Cruel World"
