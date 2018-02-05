@@ -3,7 +3,6 @@ public class helloWorld {
 
    public static void main(String[] args) {
 
-
       System.out.println("Hey Charlie");
       System.out.println("Hey Denise");
       System.out.println("Hi Bob");
